@@ -30,16 +30,20 @@ h1 {text-align: center;
     margin-right: 2%;
     margin-top: 2%;
     width: 20%;
+        border: 2px solid black;
     box-sizing: border-box;}
     .col2
     {float: left;
     margin: 2%;
     width: 20%;
+        border: 2px solid black;
     box-sizing: border-box;}
+       
     .col3
     {float: left;
     margin: 2%;
     width: 20%;
+        border: 2px solid black;
     box-sizing: border-box;}}
     
     @media (min-width:768px) and (max-width: 991px)
