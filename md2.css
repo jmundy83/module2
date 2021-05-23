@@ -1,16 +1,18 @@
 h1 {text-align: center;
     font-weight: 700;}
     .col1
-    {background-color: #E9967A;}
+    {background-color: #E9967A;
+padding: 1%;}
     .col2
-    {background-color: #FFEFD5;}
+    {background-color: #FFEFD5;
+padding: 1%;}
     .col3
-    {background-color: #00FA9A;}
+    {background-color: #00FA9A;
+padding: 1%;}
     .words
     {clear: both;
     margin-top: 5%;
-font-size: 0.5em;
-padding: 1%;}
+font-size: 0.5em;}
     .sctnhdr
     {
    float: right;
