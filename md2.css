@@ -8,7 +8,8 @@ h1 {text-align: center;
     {background-color: #00FA9A;}
     .words
     {clear: both;
-    margin-top: 5%;}
+    margin-top: 5%;
+font-size: 0.5em;}
     .sctnhdr
     {
    float: right;
