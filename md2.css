@@ -9,7 +9,8 @@ h1 {text-align: center;
     .words
     {clear: both;
     margin-top: 5%;
-font-size: 0.5em;}
+font-size: 0.5em;
+padding: 1%;}
     .sctnhdr
     {
    float: right;
